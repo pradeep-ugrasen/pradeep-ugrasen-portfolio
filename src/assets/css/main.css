@@ -5046,3 +5046,11 @@ a.credit {
 .section {
   padding-bottom: 0;
 }
+
+.fa-leetcode {
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  background: url("https://leetcode.com/static/images/LeetCode_logo.png") no-repeat center center;
+  background-size: contain;
+}
